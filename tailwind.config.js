@@ -8,13 +8,7 @@ module.exports = {
       },
       colors: {
         lavender: "#f1f3ff",
-        blue: {
-          900: "#091b6f",
-          700: "#0d28a6",
-          500: "#5e70c4",
-          300: "#aeb7e1",
-          100: "#cfd4ed",
-        },
+        blue: "#0d28a6",
         green: "#5CB85F",
         neutral: {
           "01": "#ffffff",
